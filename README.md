@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MortezaTavasoly
 - 👀 I’m interested in React and javaScript also TypeScript
-- 🌱 I’m currently learning bootstrap.
+- 🌱 I’m currently learning TypeScript.
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me :
 - Email: moteza.tavasoly.rostami@gmail.com
