@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MortezaTavasoly
-- 👀 I’m interested in React and javaScript also TypeScript
+- 👀 I’m interested in javaScript and TypeScript also I’m interested in React and Vue.js.
 - 🌱 I’m currently learning Vue.js.
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me :
