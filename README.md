@@ -6,4 +6,4 @@
 - Email: moteza.tavasoly.rostami@gmail.com
 - linkedin: [www.linkedin.com/in/morteza-tavasoly-02206528a](https://www.linkedin.com/in/morteza-tavasoly),
 - Instagram : @mr_mtr6
-- Telegram :@MTR6
+- Telegram :@M_T_R_6
