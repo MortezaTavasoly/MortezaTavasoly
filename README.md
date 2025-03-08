@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MortezaTavasoly
 - 👀 I’m interested in javaScript and TypeScript also I’m interested in React and Vue.js.
-- 🌱 I’m currently learning webpack.
+- 🌱 I’m currently learning node.js.
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me :
 - Email: moteza.tavasoly.rostami@gmail.com
-- linkedin: www.linkedin.com/in/morteza-tavasoly-02206528a,
+- linkedin: [www.linkedin.com/in/morteza-tavasoly-02206528a](https://www.linkedin.com/in/morteza-tavasoly),
 - Instagram : @mr_mtr6
-- Telegram :@MTRW6
+- Telegram :@MTR6
